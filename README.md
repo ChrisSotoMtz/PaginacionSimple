@@ -11,7 +11,7 @@ aleatorio entero entre 5 y 25).
 6. El S.O. ocupará 3 marcos, quedando 42 disponibles para repartir entre los procesos.
 7. Dividir los procesos en páginas (tamaño 4), es decir dividir los procesos de igual tamaño que
 los marcos (4).
-8. Teclas a utilizar:
+8. Teclas a utilizar
 <img src="https://cdn.discordapp.com/attachments/762088441314934794/859699714924216360/unknown.png" width="715" height="673">
 9. Para que el proceso pueda estar en la cola de listos (en memoria), deberá existir espacio en
 memoria, es decir, deben de existir los marcos libres necesarios para albergar el proceso.
