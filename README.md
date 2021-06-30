@@ -13,6 +13,7 @@ aleatorio entero entre 5 y 25).
 los marcos (4).
 8. Teclas a utilizar
 <img src="https://cdn.discordapp.com/attachments/762088441314934794/859699714924216360/unknown.png" width="715" height="673">
+
 9. Para que el proceso pueda estar en la cola de listos (en memoria), deberá existir espacio en
 memoria, es decir, deben de existir los marcos libres necesarios para albergar el proceso.
 10. Deberá mostrarse en pantalla: 
